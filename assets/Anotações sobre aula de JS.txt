@@ -1,0 +1,24 @@
+JavaScript: liguagem interpretada, ECMAScript.
+Sua aplicações serve para:
+- Web
+-Mobile
+-Smartwachers
+- Games
+- Internet of things
+-API's
+Elemento D.O.M
+Document Object Model, estrutura de dados dentro de uma janela
+------------
+Projeto: contador.
+Criar um componente dinâmico
+
+Introdução a eventos
+----
+Onde estudar 
+Digital Innovation One 
+Twitter
+Stackover Flow
+Github
+Linkedin
+W3C
+MDN web docs- moz://a
